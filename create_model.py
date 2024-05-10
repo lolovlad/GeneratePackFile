@@ -78,7 +78,7 @@ async def create_type_organization_context():
             ),
             TypeOrganizations(
                 name="PAO",
-                description="ПАО"
+                description="АО"
             ),
             TypeOrganizations(
                 name="IP",
